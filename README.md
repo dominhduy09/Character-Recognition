@@ -2,7 +2,7 @@
 Project9: Character Recognition (Input an image, Print single digits one-by-one)
 
 Your group topic is: "Project9: Character Recognition (Input an image, Print single digits one-by-one)"
-* Team members:
+*Team members:
 1.    Đỗ Minh Duy - ITITSB22029 - ITITSB22029@student.hcmiu.edu.vn
 
 2.    Trần Anh Văn - ITITSB22017 - ITITSB22017@student.hcmiu.edu.vn
@@ -13,7 +13,7 @@ Your group topic is: "Project9: Character Recognition (Input an image, Print sin
 
 5.    Bùi Văn Tiến Đạt - ITITWE20005@student.hcmiu.edu.vn
 
-* Description:
+*Description:
 - Create a GUI
 
 - Allow to load an image (vehicle’s license plate with digits in clear condition, i.e. 51A-123.45)
@@ -22,7 +22,7 @@ Your group topic is: "Project9: Character Recognition (Input an image, Print sin
 
 The deadline submission is tomorrow noon. However, your group could upload the project until 23:59 next Friday 14/06/2024.
 
-* References:
+*References:
 - https://www.mathworks.com/help/vision/ug/recognize-text-using-optical-character-recognition-ocr.html
 - https://www.mathworks.com/matlabcentral/answers/265740-automatic-number-plate-recognition-in-matlab?s_tid=srchtitle
 - http://www.mathworks.com/help/vision/ref/ocr.html#bt548t1-2_1
