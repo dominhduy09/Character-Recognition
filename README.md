@@ -33,4 +33,6 @@ The deadline submission is tomorrow noon. However, your group could upload the p
 - https://www.mathworks.com/matlabcentral/fileexchange/44088-car-license-plate-reader
 - https://www.youtube.com/results?search_query=Detection+and+recognition+of+license+plate+number+in+Matlab+octave
 
+![Alt text](/../main/minhhoa.png?raw=true "minhhoa")
+
 
